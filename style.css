@@ -18,3 +18,8 @@ header {
 nav {
   text-align: center;
 }
+
+figcaption {
+  font-size: 10;
+  text-align: center;
+}
